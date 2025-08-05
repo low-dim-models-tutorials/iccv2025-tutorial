@@ -1,6 +1,4 @@
----
----
 User-agent: *
 Disallow:
 
-Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
+Sitemap: https://low-dim-models-tutorials.github.io/iccv2025-tutorial/sitemap.xml
