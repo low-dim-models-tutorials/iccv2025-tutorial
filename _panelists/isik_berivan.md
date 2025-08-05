@@ -1,6 +1,6 @@
 ---
 name: Berivan Isik
-affiliation: Google Research
+affiliation: Google
 website: https://sites.google.com/view/berivanisik/
 photo: placeholder.jpg
 ---
