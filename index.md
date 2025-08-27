@@ -129,7 +129,7 @@ Next, we delve into the core principles of low-dimensional models within various
 </div>
 </td>
 <td markdown="span">
-  <a href="https://vita-group.github.io/">Atlas Wang</a>
+  <a href="https://vita-group.github.io/">Peihao Wang</a>
 </td>
 <td markdown="span">
 9:45-10:30 am

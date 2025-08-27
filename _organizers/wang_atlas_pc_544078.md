@@ -1,6 +1,6 @@
 ---
-name: Atlas Wang
+name: Peihao Wang
 affiliation: UT Austin
-website: https://vita-group.github.io/
-photo: aw.png
+website: https://peihaowang.github.io/
+photo: pw.png
 ---
