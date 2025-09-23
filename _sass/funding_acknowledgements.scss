@@ -1,0 +1,70 @@
+.funding-acknowledgements {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  text-align: center;
+
+  h2 {
+    margin-bottom: 2rem;
+    color: #24292e;
+    font-size: 1.8rem;
+    font-weight: 600;
+  }
+
+  .funding-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    .funding-logo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 120px;
+
+      img {
+        max-height: 80px;
+        max-width: 200px;
+        width: auto;
+        height: auto;
+        filter: grayscale(20%);
+        transition: filter 0.3s ease;
+
+        &:hover {
+          filter: grayscale(0%);
+        }
+      }
+    }
+  }
+
+  // Responsive design
+  @media (max-width: 768px) {
+    .funding-logos {
+      gap: 1.5rem;
+
+      .funding-logo {
+        min-width: 100px;
+
+        img {
+          max-height: 60px;
+          max-width: 150px;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 480px) {
+    .funding-logos {
+      flex-direction: column;
+      gap: 1rem;
+
+      .funding-logo img {
+        max-height: 50px;
+        max-width: 120px;
+      }
+    }
+  }
+}

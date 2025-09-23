@@ -278,3 +278,5 @@ Finally, we introduce sparse linear discriminative representations by combining 
 ## Materials
 
 Materials for the tutorial will be made available closer to the conference date.
+
+{% include funding_acknowledgements.html %}
