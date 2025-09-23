@@ -798,6 +798,66 @@ pre > code {
   color: #727272;
 }
 
+.funding-acknowledgements {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  text-align: center;
+}
+.funding-acknowledgements h2 {
+  margin-bottom: 2rem;
+  color: #24292e;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+.funding-acknowledgements .funding-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.funding-acknowledgements .funding-logos .funding-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 120px;
+}
+.funding-acknowledgements .funding-logos .funding-logo img {
+  max-height: 80px;
+  max-width: 200px;
+  width: auto;
+  height: auto;
+  filter: grayscale(20%);
+  transition: filter 0.3s ease;
+}
+.funding-acknowledgements .funding-logos .funding-logo img:hover {
+  filter: grayscale(0%);
+}
+@media (max-width: 768px) {
+  .funding-acknowledgements .funding-logos {
+    gap: 1.5rem;
+  }
+  .funding-acknowledgements .funding-logos .funding-logo {
+    min-width: 100px;
+  }
+  .funding-acknowledgements .funding-logos .funding-logo img {
+    max-height: 60px;
+    max-width: 150px;
+  }
+}
+@media (max-width: 480px) {
+  .funding-acknowledgements .funding-logos {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .funding-acknowledgements .funding-logos .funding-logo img {
+    max-height: 50px;
+    max-width: 120px;
+  }
+}
+
 .organizer {
   display: flex;
   flex-direction: column;
