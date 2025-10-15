@@ -76,7 +76,9 @@ vision.
 
 ## Schedule
 
-The tutorial will take place at **ICCV 2025**.
+The tutorial will take place at **ICCV 2025**, on October 19th at the [Hawai'i Convention
+Center, Room
+324](https://map.concept3d.com/?id=1107#!ce/24709?ct/25427,24748,24747,24709,24708,22261,0?m/231569?s/?sbc/).
 
 <table>
 <colgroup>
@@ -94,7 +96,7 @@ The tutorial will take place at **ICCV 2025**.
 <tbody>
 <tr>
 <td class="title" colspan="3" markdown="span">
-**Session I:** Introduction of Basic Low-dimensional Models in Vision
+**Session I:** Introduction of Basic Low-dimensional Models
 </td>
 </tr>
 <tr>
@@ -156,26 +158,7 @@ The session focuses on the strong conceptual connections between low-dimensional
   <a href="https://cse.osu.edu/people/zhu.3440">Zhihui Zhu</a>
 </td>
 <td markdown="span">
-10:45-11:30 am
-</td>
-</tr>
-<tr>
-<td>
-Understanding Low-Dimensional Representation in Intermediate Layer
-<br>
-<a class="abstract btn btn-sm z-depth-0" role="button" style="color:#959396;">(Lecture Abstract)</a>
-<br>
-<div class="abstract hidden">
-<p>
-Second, we show how low-dimensional structures also emerge in intermediate layers of learned deep neural networks. Specifically, we will characterize the progressive feature compression and discrimination from shallow to deep layers. Such a phenomenon is strongly correlated with the low-dimensional structure in learning dynamics, where the evolution of gradient descent only affects a minimal portion of singular vector spaces across all weight matrices.
-</p>
-</div>
-</td>
-<td markdown="span">
-  <a href="https://qingqu.engin.umich.edu/">Qing Qu</a>
-</td>
-<td markdown="span">
-11:30 am-12:00 pm
+10:45-11:45 am
 </td>
 </tr>
 <tr>
@@ -199,7 +182,7 @@ We will establish a thorough understanding of the generalization of diffusion mo
   <a href="https://qingqu.engin.umich.edu/">Qing Qu</a>
 </td>
 <td markdown="span">
-1:15-2:00 pm
+1:00-2:00 pm
 </td>
 </tr>
 <tr>
