@@ -119,14 +119,18 @@ The first part will introduce fundamental properties and results for sensing, pr
 </td>
 </tr>
 <tr>
+<td class="title" colspan="3" markdown="span">
+**Session II:** Understanding Low-Dimensional Structures in Representation Learning
+</td>
+</tr>
+<tr>
 <td>
-Introduction of Low-dimensional Models in Deep Learning
+Bridging Symbolic Abstraction and Low-Dimensionality in Machine Reasoning: Algebraic and Geometric Perspectives
 <br>
 <a class="abstract btn btn-sm z-depth-0" role="button" style="color:#959396;">(Lecture Abstract)</a>
 <br>
 <div class="abstract hidden">
-<p>
-Next, we delve into the core principles of low-dimensional models within various neural network architectures. Specifically, we will introduce unrolled optimization as a design principle for interpretable deep networks. As a simple special case, we will examine several unrolled optimization algorithms for sparse coding, and show that they exhibit striking similarities to current deep network architectures. These unrolled networks are white-box and interpretable ab initio.
+<p>In this talk, we will reveal the dual process between low-dimensional representations and symbolic abstraction in deep neural networks, emphasizing the essential role of low-dimensional models in machine reasoning. Specifically, we introduce a theoretical framework that explains how “symbols" are represented and learned in deep neural networks through gradient descent in weight space. Our theory shows that dimension reduction occurs spontaneously alongside the emergence of symbolic representations, offering practical guidance for designing interpretable deep networks based on the principle of low-dimensionality.
 </p>
 </div>
 </td>
@@ -134,12 +138,7 @@ Next, we delve into the core principles of low-dimensional models within various
   <a href="https://vita-group.github.io/">Peihao Wang</a>
 </td>
 <td markdown="span">
-9:45-10:30 am
-</td>
-</tr>
-<tr>
-<td class="title" colspan="3" markdown="span">
-**Session II:** Understanding Low-Dimensional Structures in Representation Learning
+10:00-10:45 am
 </td>
 </tr>
 <tr>
