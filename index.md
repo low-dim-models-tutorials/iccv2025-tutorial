@@ -115,7 +115,7 @@ The first part will introduce fundamental properties and results for sensing, pr
   <a href="https://people.eecs.berkeley.edu/~yima/">Yi Ma</a>
 </td>
 <td markdown="span">
-9:00-9:45 am
+9:00-10:00 am
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ The session focuses on the strong conceptual connections between low-dimensional
   <a href="https://cse.osu.edu/people/zhu.3440">Zhihui Zhu</a>
 </td>
 <td markdown="span">
-10:45-11:45 am
+11:00 am-12:00 pm
 </td>
 </tr>
 <tr>
