@@ -82,20 +82,22 @@ Center, Room
 
 <table>
 <colgroup>
-<col width="69%" />
+<col width="59%" />
 <col width="17%" />
 <col width="14%" />
+<col width="10%" />
 </colgroup>
 <thead>
 <tr>
 <th>Lecture</th>
 <th>Speaker</th>
 <th>Time</th>
+<th>Slides</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="title" colspan="3" markdown="span">
+<td class="title" colspan="4" markdown="span">
 **Session I:** Introduction of Basic Low-dimensional Models
 </td>
 </tr>
@@ -117,9 +119,12 @@ The first part will introduce fundamental properties and results for sensing, pr
 <td markdown="span">
 9:00-10:00 am
 </td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/assets/slides/ICCV2025_Lec1.pdf">Slides</a>
+</td>
 </tr>
 <tr>
-<td class="title" colspan="3" markdown="span">
+<td class="title" colspan="4" markdown="span">
 **Session II:** Understanding Low-Dimensional Structures in Representation Learning
 </td>
 </tr>
@@ -140,6 +145,8 @@ Bridging Symbolic Abstraction and Low-Dimensionality in Machine Reasoning: Algeb
 <td markdown="span">
 10:00-10:45 am
 </td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td>
@@ -159,9 +166,12 @@ The session focuses on the strong conceptual connections between low-dimensional
 <td markdown="span">
 11:00 am-12:00 pm
 </td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/assets/slides/ICCV2025_Lec3.pdf">Slides</a>
+</td>
 </tr>
 <tr>
-<td class="title" colspan="3" markdown="span">
+<td class="title" colspan="4" markdown="span">
 **Session III:** Understanding Low-Dimensional Structures in Diffusion Generative Models
 </td>
 </tr>
@@ -183,6 +193,9 @@ We will establish a thorough understanding of the generalization of diffusion mo
 <td markdown="span">
 1:00-2:00 pm
 </td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/assets/slides/ICCV2025_Lec4.pdf">Slides</a>
+</td>
 </tr>
 <tr>
 <td>
@@ -202,9 +215,12 @@ We will enhance diffusion models for scientific imaging by improving their effic
 <td markdown="span">
 2:00-2:45 pm
 </td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/assets/slides/ICCV2025_Lec5.pdf">Slides</a>
+</td>
 </tr>
 <tr>
-<td class="title" colspan="3" markdown="span">
+<td class="title" colspan="4" markdown="span">
 **Session IV:** Designing Deep Networks for Pursuing Low-Dimensional Structures
 </td>
 </tr>
@@ -226,6 +242,9 @@ We focus on learning data distribution and transforming it into a linear discrim
 <td markdown="span">
 3:00-3:45 pm
 </td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/assets/slides/ICCV2025_Lec6.pdf">Slides</a>
+</td>
 </tr>
 <tr>
 <td>
@@ -245,6 +264,9 @@ Finally, we introduce sparse linear discriminative representations by combining 
 <td markdown="span">
 3:45-4:30 pm
 </td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/assets/slides/ICCV2025_Lec7.pdf">Slides</a>
+</td>
 </tr>
 <tr>
 <td class="title" colspan="2" markdown="span">
@@ -252,6 +274,8 @@ Finally, we introduce sparse linear discriminative representations by combining 
 </td>
 <td markdown="span">
 4:45-5:45 pm
+</td>
+<td markdown="span">
 </td>
 </tr>
 </tbody>
