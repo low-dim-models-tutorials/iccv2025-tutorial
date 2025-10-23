@@ -283,6 +283,10 @@ Finally, we introduce sparse linear discriminative representations by combining 
 
 ## Materials
 
-Materials for the tutorial will be made available closer to the conference date.
+Slides for the tutorial may be found at the links in the schedule above.
+
+Video recordings for the tutorial will be made available on the [official ICCV website](https://iccv.thecvf.com/virtual/2025/tutorial/2852) up to three weeks after the end of the conference to registered attendees, and up to three months after the end of the conference for all.
+
+If you don't see video recordings at the above link yet, please stay tuned! They will be announced via [X/Twitter](https://x.com/YiMaTweets).
 
 {% include funding_acknowledgements.html %}
